@@ -35,10 +35,10 @@ I designed and deployed a **highly available image annotation application** on *
 ## 🏗 Architecture Diagrams
 
 ### Web Application Architecture
-![Web Application Architecture](./diagrams/aws_A2.drawio.png)
+![Web Application Architecture](./diagrams/aws_A2.png)
 
 ### Serverless Workflow
-![Serverless Architecture](./diagrams/aw_a2-2.drawio.png)
+![Serverless Architecture](./diagrams/aw_a2-2.png)
 
 ---
 
