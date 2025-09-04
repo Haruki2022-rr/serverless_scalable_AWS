@@ -1,7 +1,7 @@
 # AWS Image Annotation Application 🚀
 
 This project was built for my **COMP5349 Cloud Computing assignment** at the **University of Sydney**.  
-I designed and deployed a **highly available image annotation application** on **AWS**, built from scratch with a focus on **scalability, security, and serverless design**.
+I designed and deployed a **highly available image annotation application**(application part is minimal as I focus more on AWS) on **AWS**, built from scratch with a focus on **scalability, security, and serverless design**.
 
 ---
 
